@@ -37,7 +37,7 @@ The nearest airport to Hill Palace Museum is Cochin International Airport.
     ---
     <br>
 
-    ## Inspiring Quotes
+    ## motivational Quotes
 
     >***"There is always light. If only we're brave enough to see it."***
 
@@ -50,6 +50,10 @@ The nearest airport to Hill Palace Museum is Cochin International Airport.
     --Booker T. Washington
 
     ---
+
+    ## code fancing section: <br>
+
+    
     >why is Adding two languages with two directions to Bootstrap and Html ?
 
     ANSWER :<https://stackoverflow.com/questions/73642642/adding-two-languages-with-two-directions-to-bootstrap-and-html>
